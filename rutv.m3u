@@ -4,13 +4,17 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 1" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Россия 1HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ HD" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",ТНТ HD
-http://87.246.54.249:8085/THT/index.m3u8
+http://tv.ttk.mx:9128
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС HD" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",СТС HD
-http://87.246.54.249:8085/CTC/index.m3u8
+http://139.28.255.188:8080/sts/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС HD" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",СТС HD
+http://217.25.80.16/CTC_HD/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="ФЕДЕРАЛЬНЫЕ",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Рен ТВ" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Рен ТВ
 http://185.46.16.239:8000/REN_TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Рен ТВ" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Рен ТВ HD
+http://139.28.255.188:8080/rentv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! HD" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Матч! HD
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="43 канал" tvg-logo="" group-title="КИНО",43 канал
@@ -519,4 +523,5 @@ http://91.194.191.241:8081/chid68/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid69/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 Action" tvg-logo="" group-title="КИНО",TV1000 Action
 http://91.194.191.241:8081/chid78/tracks-v1a1/mono.m3u8
+
 
