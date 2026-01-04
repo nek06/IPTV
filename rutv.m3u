@@ -4,7 +4,7 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 1" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Россия 1HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ HD" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",ТНТ HD
-http://tv.ttk.mx:9128
+http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС HD" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",СТС HD
 http://139.28.255.188:8080/sts/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС HD" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",СТС HD
@@ -523,5 +523,6 @@ http://91.194.191.241:8081/chid68/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid69/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 Action" tvg-logo="" group-title="КИНО",TV1000 Action
 http://91.194.191.241:8081/chid78/tracks-v1a1/mono.m3u8
+
 
 
